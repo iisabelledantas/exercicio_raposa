@@ -2,7 +2,7 @@
 
 2. Contexto: O jogo Adventure Fox é sobre uma raposa aventureira que precisa coletar as moedas na floresta.
 
-3. Controles: Os controles para a raposa se movimenatar no plano do jogo são as setas do teclado do computador
+3. Controles: Os controles para a raposa se movimenatar no plano do jogo são as setas do teclado, como direita, esquerda e para cima.
 
 4. Link da versão jogável (GitHub Pages): https://iisabelledantas.github.io/exercicio_raposa/
 
