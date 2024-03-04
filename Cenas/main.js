@@ -1,5 +1,5 @@
-const larguraJogo = 1120; //Altura da página
-const alturaJogo = 840; //Largura da página
+const larguraJogo = 800; //Altura da página
+const alturaJogo = 600; //Largura da página
 
 window.onload = function()
 {
